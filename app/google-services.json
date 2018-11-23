@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "690408143838",
+    "firebase_url": "https://accountfragment.firebaseio.com",
+    "project_id": "accountfragment",
+    "storage_bucket": "accountfragment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690408143838:android:c266386ed0b9b6f6",
+        "android_client_info": {
+          "package_name": "com.example.nouraalrossiny.accountfragment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690408143838-0ftojb1ejcl8d2p15dhf6agrvvjksf1t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nouraalrossiny.accountfragment",
+            "certificate_hash": "c610ac36a27558e65fa203062edcb873d2a95642"
+          }
+        },
+        {
+          "client_id": "690408143838-ec61ae3iijfeakoi42sut74hf9v45ui7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADEAXeusb8CrtxYxWvF0ErRY-EdTerfaY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690408143838-ec61ae3iijfeakoi42sut74hf9v45ui7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "690408143838-546b8qnan7dlrig9h0e1h0ou10n1lok4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nouraalrossiny.accountfragment"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690408143838:android:148774af99bdcb54",
+        "android_client_info": {
+          "package_name": "com.example.nouraalrossiny.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690408143838-7j18evahh62uc9knjd6pmj5uhc6uj9a9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nouraalrossiny.myapplication",
+            "certificate_hash": "c610ac36a27558e65fa203062edcb873d2a95642"
+          }
+        },
+        {
+          "client_id": "690408143838-ec61ae3iijfeakoi42sut74hf9v45ui7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADEAXeusb8CrtxYxWvF0ErRY-EdTerfaY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690408143838-ec61ae3iijfeakoi42sut74hf9v45ui7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "690408143838-546b8qnan7dlrig9h0e1h0ou10n1lok4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nouraalrossiny.accountfragment"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
